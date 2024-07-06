@@ -13,7 +13,10 @@ int main() {
         std::cout << numbers[n-1] << std::endl;
     }
     std::cout << "Bai 2:" << std::endl;
+    {
+
+    }
      
     
     return 0;
-}
+// }
